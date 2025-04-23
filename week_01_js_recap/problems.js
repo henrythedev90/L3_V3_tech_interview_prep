@@ -32,6 +32,4 @@ function isPalindrome(word) {
   return true;
 }
 
-isPalindrome("racecar");
-
 module.exports = { reverseString, findMax, isPalindrome };
